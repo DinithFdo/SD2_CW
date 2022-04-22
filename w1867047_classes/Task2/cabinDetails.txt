@@ -1,0 +1,60 @@
+Cabin number: 1
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 2
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 3
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 4
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 5
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 6
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 7
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 8
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 9
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 10
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 11
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
+Cabin number: 12
+Passenger 1: Unavailable
+Passenger 2: Unavailable
+Passenger 3: Unavailable
+.................................
